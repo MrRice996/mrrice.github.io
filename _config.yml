@@ -1,15 +1,13 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
+title: MrRice
 description: A blog about lorem ipsum dolor sit amet
 baseurl: "/mrrice.github.io"
 url: "https://mrrice996.github.io/mrrice.github.io/"
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: MrRice
-user_description: My personal blog and study notes
-user_title: Java is the best language in the world
+username: My personal blog and study notes
+user_title: MrRice
+user_description: Java is the best language in the world
 email: mrrice1202@163.com
 #twitter_username: lorem_ipsum
 github_username: MrRice996
