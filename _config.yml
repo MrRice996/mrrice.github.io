@@ -1,16 +1,15 @@
 # Site settings
 title: MrRice
-description: A blog about lorem ipsum dolor sit amet
 baseurl: "/mrrice.github.io"
 url: "https://mrrice996.github.io/mrrice.github.io/"
 
 # User settings
-username: My personal blog and study notes
-user_title: MrRice
+username: MrRice
+user_title: Java is the best language
 user_description: Java is the best language in the world
-email: mrrice1202@163.com
+#email: mrrice1202@163.com
 #twitter_username: lorem_ipsum
-github_username: MrRice996
+#github_username: MrRice996
 #gplus_username:  lorem_ipsum
 
 # Google-analytics
