@@ -16,4 +16,6 @@ user_description: Java is the best language in the world
 google-analytics:
   id: ""
 
-exclude: ['package.json', 'src' , 'node_modules']
+#转换时排除某些文件、文件夹 ['package.json', 'src' , 'node_modules']
+exclude: ['']
+
