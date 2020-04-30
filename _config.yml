@@ -2,7 +2,8 @@
 title: MrRice
 baseurl: "/blog" #本地
 #baseurl: "/" #线上
-url: "https://mrrice996.github.io/mrrice.github.io/"
+url: "mrrice.top"
+#url: "https://mrrice996.github.io/mrrice.github.io/"
 
 # User settings
 username: MrRice
