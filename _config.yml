@@ -17,5 +17,5 @@ google-analytics:
   id: ""
 
 #转换时排除某些文件、文件夹 ['package.json', 'src' , 'node_modules']
-exclude: ['']
+#exclude: ['']
 
