@@ -17,5 +17,7 @@
 | Other Files/Folders                                  | 其他一些未被提及的目录和文件如 `css` 还有 `images` 文件夹， `favicon.ico` 等文件都将被完全拷贝到生成的 site 中。这里有一些使用 Jekyll 的站点，如果你感兴趣就来看看吧。 |
 
  
+ gulpfile.js 是一个前端的构建工具，需要基于node.js环境，目前本地没有配置，先放着
+ google-analytics.html 出现google-analytics字样的都是google提供的一个网站数据统计，目前页也还没有配置，先放着 
 
  
