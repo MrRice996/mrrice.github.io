@@ -19,6 +19,6 @@
  
  gulpfile.js 是一个前端的构建工具，需要基于node.js环境，目前本地没有配置，先放着
  
- google-analytics.html 出现google-analytics字样的都是google提供的一个网站数据统计，目前页也还没有配置，先放着 
+ google-analytics.html 出现google-analytics字样的都是google提供的一个网站数据统计，目前页也还没有配置，先放着?
 
  
